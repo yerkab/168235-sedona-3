@@ -2,7 +2,7 @@
 
 * Студент: [Ержан](https://up.htmlacademy.ru/htmlcss-individual/3/user/168235).
 * Наставник: [Дина Шарипова](https://htmlacademy.ru/profile/id1418957).
-
+* Сайт: [Мой проект Седона](https://yerkab.github.io/168235-sedona-3/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
