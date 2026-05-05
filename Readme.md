@@ -1,6 +1,6 @@
 # Личный проект «Седона»
 
-* Студент: [Ержан](https://up.htmlacademy.ru/htmlcss-individual/3/user/168235).
+* Студент: [Ержан Кабжанов](https://up.htmlacademy.ru/htmlcss-individual/3/user/168235).
 * Наставник: [Дина Шарипова](https://htmlacademy.ru/profile/id1418957).
 * Сайт: [Мой проект Седона](https://yerkab.github.io/168235-sedona-3/).
 ---
